@@ -1,0 +1,8 @@
+{
+    "name": "DisqusComment",
+    "description": "A plugin to add Disqus comments to the articles.",
+    "version": "1.0",
+    "author": "w4r3s",
+    "enabled": true
+  }
+  
