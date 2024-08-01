@@ -1,0 +1,7 @@
+{
+    "name": "HelloWorld",
+    "description": "A simple HelloWorld plugin that logs a message to the browser.",
+    "version": "1.0.0",
+    "author": "w4r3s"
+  }
+  
